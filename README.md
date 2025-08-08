@@ -1,7 +1,7 @@
 # INTRADE
 Sistema de IA simbólica e interpretable para apoyar decisiones estratégicas en contextos complejos como salud, educación y seguridad. Permite descubrir estructuras conceptuales claras, alineadas con marcos humanos de decisión.
 
-Puede verse un reporte completo [aquí](Reporte%20INTRADE.pdf).
+Puede verse el reporte completo [aquí](Reporte%20INTRADE.pdf).
 
 INTRADE nació de una inquietud recurrente en proyectos académicos y sociales: la dificultad de entender por qué un modelo automatizado toma ciertas decisiones. ¿Por qué este proyecto recibió financiamiento y otro no? ¿Por qué este paciente es considerado “de riesgo”? ¿Por qué este estudiante no accede a una beca? Las respuestas a menudo quedan encerradas en redes neuronales o árboles de decisión complejos que nadie fuera del equipo técnico puede interpretar. Eso genera desconfianza y reproduce desigualdades.
 

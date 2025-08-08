@@ -1,6 +1,8 @@
 # INTRADE
 Sistema de IA simbólica e interpretable para apoyar decisiones estratégicas en contextos complejos como salud, educación y seguridad. Permite descubrir estructuras conceptuales claras, alineadas con marcos humanos de decisión.
 
+Puede verse un reporte completo [aquí](Reporte INTRADE.pdf).
+
 INTRADE nació de una inquietud recurrente en proyectos académicos y sociales: la dificultad de entender por qué un modelo automatizado toma ciertas decisiones. ¿Por qué este proyecto recibió financiamiento y otro no? ¿Por qué este paciente es considerado “de riesgo”? ¿Por qué este estudiante no accede a una beca? Las respuestas a menudo quedan encerradas en redes neuronales o árboles de decisión complejos que nadie fuera del equipo técnico puede interpretar. Eso genera desconfianza y reproduce desigualdades.
 
 El proyecto fue ideado y piloteado por un equipo multidisciplinario de investigadores en inteligencia artificial, lingüística computacional y filosofía de la mente, con experiencia en modelado simbólico y en la interfaz entre algoritmos y toma de decisiones humanas. Se desarrolló en colaboración con grupos de investigación del IPN, así como instituciones académicas europeas como la Universidad de Bochum.
